@@ -1,0 +1,11 @@
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\ServiceLocator.exe
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\ServiceLocator.deps.json
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\ServiceLocator.runtimeconfig.json
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\ServiceLocator.runtimeconfig.dev.json
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\ServiceLocator.dll
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\ServiceLocator.pdb
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\ServiceLocator.csprojAssemblyReference.cache
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\ServiceLocator.AssemblyInfoInputs.cache
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\ServiceLocator.AssemblyInfo.cs
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\ServiceLocator.dll
+C:\Users\Eldar_Kalachev\source\repos\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\ServiceLocator.pdb

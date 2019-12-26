@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/DesignPatterns/bin/Debug/netcoreapp3.1
-/.vs/DesignPatterns/v16/Server/sqlite3
-/DesignPatterns/obj
+/bin/*
+/.vs/*
+/obj/*
